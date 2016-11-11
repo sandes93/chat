@@ -1,0 +1,70 @@
+/*h1 {
+    color: #444;
+}
+
+body {
+    margin: 40px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.chat-input {
+    width: 350px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    padding: 10px 5px 10px 5px;
+    color: #777;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    margin-bottom: 6px;
+    margin-top: 1px;
+    outline: none;
+}
+
+.bubble {
+    display: flex;
+    position: relative;
+    width: 250px;
+    padding: 0px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.bubble:after {
+    content: "";
+    position: absolute;
+    top: 11px;
+    border-style: solid;
+    display: block;
+    width: 0;
+    z-index: 1;
+}
+
+.other {
+    background: #337ab7;
+}
+
+.other:after {
+    right: -15px;
+    border-color: transparent #337ab7;
+    border-width: 15px 0 15px 15px;
+}
+
+.me {
+    background: #5cb85c;
+}
+
+.me:after {
+    left: -15px;
+    border-color: transparent #5cb85c;
+    border-width: 15px 15px 15px 0;
+}
+
+.chat-text {
+    margin: 20px 40px 20px 40px;
+    word-wrap: break-word;
+}
+*/
